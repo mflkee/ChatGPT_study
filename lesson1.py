@@ -78,4 +78,4 @@ greet("Vera")
 greet("Boris")
 greet("Katya")
 
-#проверка
+# проверка
