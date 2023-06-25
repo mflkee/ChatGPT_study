@@ -14,4 +14,6 @@ while x < 5:
     print(x)
     x += 1
 
-#
+# Цикл for
+for i in range(5):
+    print(i)
