@@ -17,3 +17,5 @@ while x < 5:
 # Цикл for
 for i in range(5):
     print(i)
+
+#
