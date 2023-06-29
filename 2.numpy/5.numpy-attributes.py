@@ -16,3 +16,16 @@ print(a.size)
 # returns an object describing an array
 print(a.dtype)
 # int32
+
+# Returns the size of each element in the array in bytes
+print(a.itemsize)
+# 4 , 32/8 = 4
+
+# Returns a buffer with the current array elements. This is an alternative way to access elements through their indexes
+print(a.data)
+# elements array
+
+# The function will return the sum of all the elements of ndarray
+b = np.random.random((2, 3))
+print(b)
+print(b.sum())
