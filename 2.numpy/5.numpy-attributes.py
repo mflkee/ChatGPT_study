@@ -29,3 +29,9 @@ print(a.data)
 b = np.random.random((2, 3))
 print(b)
 print(b.sum())
+
+# The function will return the element with the minimum value from ndarray.
+print(b.min())
+
+# The function will return the element with the minimum value from ndarray.
+print(b.max())
