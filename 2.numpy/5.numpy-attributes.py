@@ -21,7 +21,8 @@ print(a.dtype)
 print(a.itemsize)
 # 4 , 32/8 = 4
 
-# Returns a buffer with the current array elements. This is an alternative way to access elements through their indexes
+# Returns a buffer with the current array elements.
+# This is an alternative way to access elements through their indexes
 print(a.data)
 # elements array
 
